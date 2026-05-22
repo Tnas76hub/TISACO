@@ -75,7 +75,7 @@ text-align: center;
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
-    background-color: #3498db;
+    background-color: #E67902;
     color: white;
     transform: translateY(-3px); /* Pequeno salto para cima */
 }
