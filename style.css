@@ -49,7 +49,7 @@ header {
 }
 
 /* Cor de destaque para o botão da PAP */
-.btn-pap {
+.btn btn-pap {
 background-color: #F58427; 
 color: white !important;
 }
