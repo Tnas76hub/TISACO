@@ -37,7 +37,7 @@ header {
 /* Estilo dos botões (links) */
 .btn {
     display: block;
-    background-color: white;
+    background-color: #F58427;
     color: #1a1a1a;
     text-decoration: none; /* Remove o sublinhado */
     padding: 18px;
